@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="ca90cc99-a3a4-465b-ab1c-00bb3de7fc80" name="spring_web_blog" url="jdbc:mysql://localhost:3306/spring_web_blog?useSSL=false" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
